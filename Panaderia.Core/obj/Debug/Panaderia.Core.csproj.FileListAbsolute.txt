@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Panaderia\Panaderia.Core\bin\Debug\Panaderia.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Panaderia\Panaderia.Core\bin\Debug\Panaderia.Core.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Panaderia\Panaderia.Core\obj\Debug\Panaderia.Core.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Panaderia\Panaderia.Core\obj\Debug\Panaderia.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Panaderia\Panaderia.Core\obj\Debug\Panaderia.Core.pdb
